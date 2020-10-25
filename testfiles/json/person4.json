@@ -1,0 +1,52 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "harvey",
+    "last": "chambers"
+  },
+  "location": {
+    "street": "3287 high street",
+    "city": "carlow",
+    "state": "wexford",
+    "postcode": 47671,
+    "coordinates": {
+      "latitude": "-22.5329",
+      "longitude": "168.9462"
+    },
+    "timezone": {
+      "offset": "+5:00",
+      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+    }
+  },
+  "email": "harvey.chambers@example.com",
+  "login": {
+    "uuid": "8f583f57-c999-4a5d-a8c1-d913b574c082",
+    "username": "greenrabbit148",
+    "password": "june",
+    "salt": "dAsaXJGK",
+    "md5": "e3759db2391b798ffea2cc168e1280fd",
+    "sha1": "a3e77fd5fdd75e3b173ceec6c3c1bbe5e83540cc",
+    "sha256": "7564eac1899234d5902fadfb995303a58370232f54bee6adb26e25394e2ffddd"
+  },
+  "dob": {
+    "date": "1988-05-27T00:14:03Z",
+    "age": 30
+  },
+  "registered": {
+    "date": "2007-03-11T06:20:19Z",
+    "age": 11
+  },
+  "phone": "061-265-5188",
+  "cell": "081-146-8382",
+  "id": {
+    "name": "PPS",
+    "value": "5608572T"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/82.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/82.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/82.jpg"
+  },
+  "nat": "IE"
+}
